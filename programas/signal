@@ -1,0 +1,8 @@
+begin	
+	:etiqueta
+	wait b
+	prints l "Proceso signal"
+	signal c
+	#Ciclar indefinidamente
+	goto etiqueta
+end

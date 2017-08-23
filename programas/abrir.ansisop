@@ -1,0 +1,4 @@
+begin
+	variables a
+	abrir a LC /giladas/masGiladas/facil.c
+end
